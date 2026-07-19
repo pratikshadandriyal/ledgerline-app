@@ -4,8 +4,6 @@
 
 Ledgerline is an expense tracker built to answer a specific question: *what does an expense tracker look like when a data analyst builds it, instead of a generic CRUD app?* Every screen is backed by an actual statistical method — nothing is hardcoded or decorative — and the **Methodology** page inside the app documents exactly how each number is calculated, so nothing is a black box.
 
-It was built end-to-end (design, logic, and deployment) using AI-assisted development, as a demonstration of applying data analysis knowledge to a real, functioning web product rather than just a notebook or dashboard.
-
 ---
 
 ## Why this exists
